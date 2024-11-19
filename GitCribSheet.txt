@@ -1,3 +1,8 @@
+Author: Troy Carpenter
+User name: Toblarone
+Date:11/19/2024
+Version: 1.0
+
 CREATE REPOSITORIES
 Start a new repository or obtain one from an existing URL
 $ git init [project-name]
